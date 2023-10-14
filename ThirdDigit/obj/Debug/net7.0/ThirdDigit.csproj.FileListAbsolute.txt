@@ -1,0 +1,14 @@
+/Users/dmitry/Desktop/Progs/ThirdDigit/obj/Debug/net7.0/ThirdDigit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitry/Desktop/Progs/ThirdDigit/obj/Debug/net7.0/ThirdDigit.AssemblyInfoInputs.cache
+/Users/dmitry/Desktop/Progs/ThirdDigit/obj/Debug/net7.0/ThirdDigit.AssemblyInfo.cs
+/Users/dmitry/Desktop/Progs/ThirdDigit/obj/Debug/net7.0/ThirdDigit.csproj.CoreCompileInputs.cache
+/Users/dmitry/Desktop/Progs/ThirdDigit/bin/Debug/net7.0/ThirdDigit
+/Users/dmitry/Desktop/Progs/ThirdDigit/bin/Debug/net7.0/ThirdDigit.deps.json
+/Users/dmitry/Desktop/Progs/ThirdDigit/bin/Debug/net7.0/ThirdDigit.runtimeconfig.json
+/Users/dmitry/Desktop/Progs/ThirdDigit/bin/Debug/net7.0/ThirdDigit.dll
+/Users/dmitry/Desktop/Progs/ThirdDigit/bin/Debug/net7.0/ThirdDigit.pdb
+/Users/dmitry/Desktop/Progs/ThirdDigit/obj/Debug/net7.0/ThirdDigit.dll
+/Users/dmitry/Desktop/Progs/ThirdDigit/obj/Debug/net7.0/refint/ThirdDigit.dll
+/Users/dmitry/Desktop/Progs/ThirdDigit/obj/Debug/net7.0/ThirdDigit.pdb
+/Users/dmitry/Desktop/Progs/ThirdDigit/obj/Debug/net7.0/ThirdDigit.genruntimeconfig.cache
+/Users/dmitry/Desktop/Progs/ThirdDigit/obj/Debug/net7.0/ref/ThirdDigit.dll
